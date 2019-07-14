@@ -1,0 +1,8 @@
+Django==2.1
+timeago==1.0.8
+django-rest-swagger==2.2.0
+djangorestframework==3.8.2
+pytest==3.7.2
+pytest-django==3.4.2
+psycopg2-binary==2.7.5
+
