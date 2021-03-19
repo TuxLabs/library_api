@@ -1,7 +1,7 @@
 Django==2.2.13
 timeago==1.0.8
 django-rest-swagger==2.2.0
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 pytest==3.7.2
 pytest-django==3.4.2
 psycopg2-binary==2.7.5
